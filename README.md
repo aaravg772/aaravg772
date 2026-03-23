@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Aarav!<br>I like to make random stuff.<br>I'm currently working on an interactive story called <i>Mnemosyne's Scalpel</i> on my website: https://binary-branch.vercel.app/<br>I also like art, and I'm currently learning how to sketch.
+Hey, I'm Aarav!<br>I like to make random stuff.<br>I'm currently working on an interactive story called Mnemosyne's Scalpel on my website: https://binary-branch.vercel.app/<br>I also like art, and I'm currently learning how to sketch.
 
 
 ## 🌐 Socials:
